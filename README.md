@@ -1,0 +1,1 @@
+# module_cam_mcm_standalone
